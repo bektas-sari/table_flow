@@ -1,0 +1,23 @@
+name: table_flow
+description: "Flutter app: otomatik tablo algılama ve gösterme"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  http: ^0.13.5
+  html: ^0.15.0   # HTML parse kütüphanesi
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
