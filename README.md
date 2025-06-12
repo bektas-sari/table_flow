@@ -1,4 +1,4 @@
-# TableFlow
+# TableFlow (Flutter APP)
 
 **TableFlow** is a Flutter application designed to fetch and parse HTML tables or JSON API data from arbitrary URLs, presenting results in a dynamic, user-friendly DataTable interface. It supports both automatic table detection and manual selector entry, with fallback to JSON API mode or guidance toward backend integration for dynamic content scenarios.
 
